@@ -1,0 +1,19 @@
+
+body{
+  background-color: #3f3f44;
+  font-family: 'Rowdies', cursive;
+}
+
+canvas{
+  position : fixed;
+  z-index: -1 ; 
+}
+h1
+{
+  color: white ;
+  text-align: center;
+  font-size: 40px ;
+}
+.invisible{
+  visibility: hidden;
+}
